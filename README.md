@@ -7,10 +7,9 @@
 - ⚡ I love math, programming, data science, and books
 - 🌍 I’m addicted to learning and growing every day
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/prince0310/prince0310)
-
 - 💬 Ask me about **Data science, Computer vision, Image processing, Machine learning and Deep learning**
-
 - 📫 How to reach me **pk8840230@gmail.com**
+- you can download my Resume [Download Resume](https://drive.google.com/file/d/1WJspV5xnfLa4_2eIxp9gfNmJlnyA0dFw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

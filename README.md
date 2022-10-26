@@ -6,7 +6,7 @@
 - 🌱 I’m a student of **Data science**
 - ⚡ I love math, programming, data science, and books
 - 🌍 I’m addicted to learning and growing every day
-- 👨‍💻 All of my projects are available at [https://github.com/prince0310?tab=repositories]([https://github.com/prince0310/prince0310](https://github.com/prince0310?tab=repositories))
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/prince0310/prince0310)
 
 - 💬 Ask me about **Data science, Computer vision, Image processing, Machine learning and Deep learning**
 

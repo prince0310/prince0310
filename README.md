@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Data scientist</h3>
+<h3 align="center">A passionate Data scientist, AI enthusiast, One of One Indian patents and contributed in various research manuscripts </h3>
 <img align = "right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince0310&label=Profile%20views&color=0e75b6&style=flat" alt="prince0310" /> </p>
 
+
+-  🌍 I’m currently working on Medical Image Segmentation, Object Detection,Feature Engineering, Natural Language Processing, Signal and Image Processing, Computer Vision, and Real-time Video analysis.
 - 🌱 I’m a student of **Data science**
 - ⚡ I love math, programming, data science, and books
 - 🌍 I’m addicted to learning and growing every day
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/prince0310/prince0310)
 - 💬 Ask me about **Data science, Computer vision, Image processing, Machine learning and Deep learning**
 - 📫 How to reach me **pk8840230@gmail.com**
-- 💼 you can download my Resume [Download Resume](https://drive.google.com/file/d/1WJspV5xnfLa4_2eIxp9gfNmJlnyA0dFw/view?usp=sharing)
+- 💼 Know about my work experience [Download Resume](https://drive.google.com/file/d/1WJspV5xnfLa4_2eIxp9gfNmJlnyA0dFw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

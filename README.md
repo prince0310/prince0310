@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github.png" width="100%" alt="Prince Kumar Banner">
+  <img src="./ascii-art.png" width="100%" alt="Prince Kumar Banner">
 </p>
 
 <h1 align="center">

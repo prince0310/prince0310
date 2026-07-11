@@ -10,6 +10,7 @@ Hi 👋 I'm Prince Kumar
 Data Scientist • AI Engineer • Computer Vision • Medical Imaging • Researcher
 </h3>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Computer+Vision+Engineer;Deep+Learning+Researcher;Medical+Image+Segmentation;Object+Detection;Always+Learning+Something+New+🚀">
 </p>

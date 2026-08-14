@@ -16,6 +16,8 @@
 
 </div>
 
+
+
 <br>
 
 <img align="right" src="./src/gif.gif" width="400" alt="AI Engineer">
@@ -137,3 +139,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1500&color=39D353&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile%2C+see+you+next+time!">
 </p>
+
+

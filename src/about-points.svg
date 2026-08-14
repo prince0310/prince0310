@@ -1,0 +1,171 @@
+<svg width="760" height="390" viewBox="0 0 760 390"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#4ADE80"/>
+    </linearGradient>
+
+    <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4FA3"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <linearGradient id="yellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+
+        <!-- Purple → Blue -->
+    <linearGradient id="purpleBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+  </defs>
+
+
+  <!-- Connecting line -->
+  <line
+    x1="20"
+    y1="28"
+    x2="20"
+    y2="348"
+    stroke="#3F3F46"
+    stroke-width="1.5"
+  />
+
+
+  <!-- 01 -->
+  <circle cx="20" cy="28" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="34"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    🔭 I'm currently working on
+
+    <tspan fill="url(#green)" font-weight="600">
+      Computer Vision &amp; Generative AI
+    </tspan>
+
+  </text>
+
+
+  <!-- 02 -->
+  <circle cx="20" cy="82" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="88"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    🌱 I'm currently learning
+
+    <tspan fill="url(#purpleBlue)" font-weight="600">
+      MLOps, AWS &amp; Agentic AI
+    </tspan>
+
+  </text>
+
+
+  <!-- 03 -->
+  <circle cx="20" cy="136" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="142"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    👁️ I love exploring
+
+    <tspan fill="url(#pink)" font-weight="600">
+      Computer Vision, LLMs &amp; Multimodal AI
+    </tspan>
+
+  </text>
+
+
+  <!-- 04 -->
+  <circle cx="20" cy="190" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="196"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    💡 Ask me about
+
+    <tspan fill="url(#blue)" font-weight="600">
+      Python, Deep Learning, Computer Vision &amp; AI
+    </tspan>
+
+  </text>
+
+
+  <!-- 05 -->
+  <circle cx="20" cy="244" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="250"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    🧪 I enjoy turning research ideas into working
+
+    <tspan fill="url(#pink)" font-weight="600">
+      AI systems
+    </tspan>
+
+  </text>
+
+
+  <!-- 06 -->
+  <circle cx="20" cy="298" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="304"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    🤝 Always open to interesting
+
+    <tspan fill="url(#yellow)" font-weight="600">
+      projects &amp; collaborations
+    </tspan>
+
+  </text>
+
+
+  <!-- 07 -->
+  <circle cx="20" cy="352" r="4" fill="#FF4FA3"/>
+
+  <text x="40" y="358"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="400"
+        fill="#E5E7EB">
+
+    📍 From
+
+    <tspan fill="url(#pink)" font-weight="600">
+      India 🇮🇳
+    </tspan>
+
+  </text>
+
+</svg>

@@ -10,9 +10,9 @@
 
 
 
-<h3>
-  AI Engineer | Building machines that see, learn & understand
-</h3>
+<p align="center">
+  <img src="./src/tagline.svg" width="850" alt="AI Engineer | Building machines that see, learn & understand">
+</p>
 
 </div>
 

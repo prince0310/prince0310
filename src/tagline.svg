@@ -1,0 +1,34 @@
+<svg width="850" height="55" viewBox="0 0 850 55" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4FA3">
+        <animate
+          attributeName="stop-color"
+          values="#FF4FA3;#A855F7;#60A5FA;#22C55E;#FF4FA3"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#60A5FA">
+        <animate
+          attributeName="stop-color"
+          values="#60A5FA;#22C55E;#FF4FA3;#A855F7;#60A5FA"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="425"
+    y="35"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="21"
+    font-weight="600"
+    fill="url(#gradient)">
+    AI Engineer | Building machines that see, learn &amp; understand
+  </text>
+
+</svg>

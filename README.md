@@ -17,24 +17,9 @@
 </div>
 
 
+<img align="right" src="./src/gif.gif" width="360" alt="AI Engineer">
 
-<br>
-
-<img align="right" src="./src/gif.gif" width="400" alt="AI Engineer">
-
-- 🔭 I'm currently working on **Computer Vision & Generative AI**
-
-- 🌱 I'm currently learning **MLOps, AWS & Agentic AI**
-
-- 👁️ I love exploring **Computer Vision, LLMs & Multimodal AI**
-
-- 💡 Ask me about **Python, Deep Learning, Computer Vision & AI**
-
-- 🧪 I enjoy turning **research ideas into working AI systems**
-
-- 🤝 Always open to **interesting projects & collaborations**
-
-- 📍 From India
+<img src="./src/about-points.svg" width="620" alt="About Prince Kumar">
 
 <br clear="right">
 

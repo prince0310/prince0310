@@ -1,83 +1,37 @@
 <p align="center">
   <img src="./src/banner.png" width="100%" alt="Prince Kumar - AI Engineer">
 </p>
-<table border="0" cellpadding="12" cellspacing="0" width="100%">
-<tr>
-
-<td width="38%" valign="top">
-
-<h2>👋 Hi, I'm <b>Prince Kumar</b></h2>
-
-<p>
-An <b>AI Engineer</b> passionate about building real-world
-AI systems across <b>Computer Vision</b>,
-<b>Deep Learning</b> and <b>Generative AI</b>.
-</p>
 
 <br>
 
-<p>🔭 Currently working on <b>AI projects</b></p>
+<div align="center">
 
-<p>🌱 Learning <b>MLOps, AWS & Agentic AI</b></p>
-
-<p>👁️ Interested in <b>Computer Vision & LLMs</b></p>
-
-<p>💡 Ask me about <b>Python, ML, CV & AI</b></p>
-
-<p>🤝 Open to collaborate on <b>exciting AI projects</b></p>
-
-<p>📫 <a href="mailto:pk8840230@gmail.com">pk8840230@gmail.com</a></p>
-
-</td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2500&pause=800&color=FF4FA3&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+I'm+Prince+Kumar">
 
 
-<td width="32%" valign="top">
 
-<h2>🛠️ Tech Stack</h2>
+<h3>
+  AI Engineer | Building machines that see, learn & understand
+</h3>
 
-<h4>💻 Languages</h4>
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,bash,mysql">
-</p>
+<br>
 
-<h4>🧠 AI / ML</h4>
+<img align="right" src="./src/gif.gif" width="400" alt="AI Engineer">
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn">
-</p>
+- 🔭 I'm currently working on **Computer Vision & Generative AI**
 
-<p>
-<code>YOLO</code>
-<code>ViT</code>
-<code>CNN</code>
-<code>Segmentation</code>
-</p>
+- 🌱 I'm currently learning **MLOps, AWS & Agentic AI**
 
-<h4>🤖 Generative AI</h4>
+- 👁️ I love exploring **Computer Vision, LLMs & Multimodal AI**
 
-<p>
-<code>LLMs</code>
-<code>RAG</code>
-<code>LangChain</code>
-<code>FAISS</code>
-<code>Agents</code>
-</p>
+- 💡 Ask me about **Python, Deep Learning, Computer Vision & AI**
 
-<h4>⚙️ Tools & Platforms</h4>
+- 🧪 I enjoy turning **research ideas into working AI systems**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,aws,vscode">
-</p>
+- 🤝 Always open to **interesting projects & collaborations**
 
-</td>
+- 📫 Reach me at **[pk8840230@gmail.com](mailto:pk8840230@gmail.com)**
 
-
-<td width="30%" valign="middle" align="center">
-
-<img src="./src/gif.gif" width="350" alt="AI Engineer">
-
-</td>
-
-</tr>
-</table>
+<br clear="right">

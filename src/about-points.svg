@@ -3,31 +3,21 @@
 
   <defs>
 
-    <!-- Green -->
     <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22C55E"/>
       <stop offset="100%" stop-color="#4ADE80"/>
     </linearGradient>
 
-    <!-- Pink -->
     <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF4FA3"/>
       <stop offset="100%" stop-color="#EC4899"/>
     </linearGradient>
 
-    <!-- Blue -->
     <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#60A5FA"/>
     </linearGradient>
 
-    <!-- Purple → Blue -->
-    <linearGradient id="purpleBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A855F7"/>
-      <stop offset="100%" stop-color="#60A5FA"/>
-    </linearGradient>
-
-    <!-- Yellow -->
     <linearGradient id="yellow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FACC15"/>
       <stop offset="100%" stop-color="#F59E0B"/>
@@ -35,22 +25,24 @@
 
   </defs>
 
+
   <!-- Connecting line -->
   <line
     x1="20"
     y1="28"
     x2="20"
-    y2="352"
+    y2="348"
     stroke="#3F3F46"
     stroke-width="1.5"
   />
 
+
   <!-- 01 -->
   <circle cx="20" cy="28" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="35"
+  <text x="40" y="34"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
@@ -66,15 +58,15 @@
   <!-- 02 -->
   <circle cx="20" cy="82" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="89"
+  <text x="40" y="88"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
     🌱 I'm currently learning
 
-    <tspan fill="url(#purpleBlue)" font-weight="600">
+    <tspan fill="url(#green)" font-weight="600">
       MLOps, AWS &amp; Agentic AI
     </tspan>
 
@@ -84,9 +76,9 @@
   <!-- 03 -->
   <circle cx="20" cy="136" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="143"
+  <text x="40" y="142"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
@@ -102,9 +94,9 @@
   <!-- 04 -->
   <circle cx="20" cy="190" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="197"
+  <text x="40" y="196"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
@@ -120,9 +112,9 @@
   <!-- 05 -->
   <circle cx="20" cy="244" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="251"
+  <text x="40" y="250"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
@@ -138,9 +130,9 @@
   <!-- 06 -->
   <circle cx="20" cy="298" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="305"
+  <text x="40" y="304"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 
@@ -156,9 +148,9 @@
   <!-- 07 -->
   <circle cx="20" cy="352" r="4" fill="#FF4FA3"/>
 
-  <text x="40" y="359"
+  <text x="40" y="358"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="18"
+        font-size="17"
         font-weight="400"
         fill="#E5E7EB">
 

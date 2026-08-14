@@ -34,6 +34,10 @@
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://prince-ai-blue.vercel.app/">
+<img src="https://img.shields.io/badge/WEBSITE-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 <a href="https://leetcode.com/code_with_prince/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>

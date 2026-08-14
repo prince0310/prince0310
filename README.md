@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Prince Kumar - AI Engineer">
+  <img src="./src/banner.png" width="100%" alt="Prince Kumar - AI Engineer">
 </p>
 
 <br>

@@ -1,174 +1,217 @@
 <p align="center">
-  <img src="./ascii-art.png" width="100%" alt="Prince Kumar Banner">
+  <img src="./profile-banner.png" width="100%" alt="Prince Kumar - AI Engineer">
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Prince Kumar
-</h1>
+<br>
 
-<h3 align="center">
-Data Scientist • AI Engineer • Computer Vision • Medical Imaging • Researcher
-</h3>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+build+AI+that+can+see+%F0%9F%91%81%EF%B8%8F;I+teach+machines+to+learn+%F0%9F%A7%A0;Computer+Vision+is+my+playground+%F0%9F%8E%AF;Always+building%2C+always+learning+%F0%9F%9A%80">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=prince0310&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me
+
+Hi! I'm **Prince**, an AI Engineer who loves turning ideas into working AI systems.
+
+🔭 Currently working with **Computer Vision & Generative AI**
+
+🧠 Exploring **LLMs, RAG & Agentic AI**
+
+👁️ Interested in **Object Detection & Segmentation**
+
+🏥 Exploring **Medical Image Analysis**
+
+⚡ Love building **real-time AI systems**
+
+🔬 Interested in **AI research & experimentation**
+
+🌱 Currently learning **MLOps & AWS**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J3a3F6dXJ5N2R6aG5uNnB0Z3Z6eXQ2dWZ3a2V6dWZ6aGJ6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Do
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Computer+Vision+Engineer;Deep+Learning+Researcher;Medical+Image+Segmentation;Object+Detection;Always+Learning+Something+New+🚀">
+
+<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-00F7FF?style=for-the-badge&labelColor=111111">
+
+<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-8A2BE2?style=for-the-badge&labelColor=111111">
+
+<img src="https://img.shields.io/badge/🤖%20Generative%20AI-FF00AA?style=for-the-badge&labelColor=111111">
+
+<img src="https://img.shields.io/badge/🏥%20Medical%20Imaging-00C853?style=for-the-badge&labelColor=111111">
+
 </p>
 
 <p align="center">
 
-<a href="https://github.com/prince0310">
-<img src="https://img.shields.io/github/followers/prince0310?label=Followers&style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/🎯%20Object%20Detection-orange?style=flat-square">
 
-<img src="https://komarev.com/ghpvc/?username=prince0310&style=for-the-badge">
+<img src="https://img.shields.io/badge/🧩%20Segmentation-blue?style=flat-square">
 
-<a href="https://github.com/prince0310?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-View-success?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/📹%20Video%20Analytics-purple?style=flat-square">
+
+<img src="https://img.shields.io/badge/💬%20LLMs-green?style=flat-square">
+
+<img src="https://img.shields.io/badge/🔎%20RAG-red?style=flat-square">
+
+<img src="https://img.shields.io/badge/🤝%20AI%20Agents-yellow?style=flat-square">
 
 </p>
 
 ---
 
-# 💻 About Me
+## 🛠️ My Toolbox
 
-```python
-class PrinceKumar():
-
-    def __init__(self):
-
-        self.role = "Data Scientist"
-
-        self.interests = [
-            "Computer Vision",
-            "Medical Imaging",
-            "Deep Learning",
-            "Large Language Models",
-            "Signal Processing",
-            "Image Processing",
-            "Generative AI"
-        ]
-
-        self.currently_learning = [
-            "MLOps",
-            "AWS",
-            "LLMs",
-            "Agentic AI"
-        ]
-
-        self.goal = "Build AI that solves real-world problems."
-
-me = PrinceKumar()
-```
-
----
-
-## 🚀 Currently Working On
-
-- 🧠 Medical Image Segmentation
-- 🎯 Object Detection
-- 📈 Feature Engineering
-- 🤖 Deep Learning
-- 📹 Real-Time Video Analytics
-- 🔬 AI Research
-
----
-
-## 🛠 Tech Stack
-
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,bash">
 </p>
 
-### AI / ML
+### 🧠 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn">
 </p>
 
-### Tools
+`YOLO` `ViT` `CNN` `Segmentation` `Object Detection`
+
+### 🤖 Generative AI
+
+`LLMs` `RAG` `LangChain` `FAISS` `Embeddings` `AI Agents`
+
+### ⚙️ Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,vscode">
+</p>
+
+`TensorRT` `Triton` `MLOps`
+
+---
+
+## 🔥 Things I've Built
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 FOD Detection
+
+Computer Vision system for detecting **Foreign Object Debris** using deep learning.
+
+`YOLOv8` `PyTorch` `OpenCV`
+
+</td>
+
+<td width="50%">
+
+### 🚁 Vision → Action
+
+Exploring **Vision-Language-Action models** for autonomous systems.
+
+`VLM` `VLA` `Computer Vision`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📄 AI Resume Engineer
+
+AI system that understands job descriptions and helps create tailored resumes.
+
+`LLM` `RAG` `FastAPI`
+
+</td>
+
+<td>
+
+### 🎨 Product Scene Generator
+
+Generate different marketing scenarios from a product image.
+
+`Generative AI` `Computer Vision` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 A Few Things I'm Proud Of
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏅%202-Indian%20Patents-FFB000?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/📚-Research%20Publications-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🤖-AI%20Projects-00C853?style=for-the-badge">
+
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🌱 Currently Learning
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prince0310&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prince0310&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince0310&layout=compact&theme=tokyonight&hide_border=true"/>
+`MLOps` → `AWS` → `LLMs` → `Multimodal AI` → `Agentic AI`
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+## 🤝 Let's Connect & Build Something Cool
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince0310&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-🏅 Two Indian Patents
-
-📚 Research Publications
-
-🤖 AI & Computer Vision Projects
-
-📊 Data Science Enthusiast
-
-📖 Lifelong Learner
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/prince-kumar-239304209/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:pk8840230@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://leetcode.com/code_with_prince/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
-<a href="https://www.hackerrank.com/pk8840230">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
-</a>
+</div>
 
-<a href="https://auth.geeksforgeeks.org/user/princesde/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge">
-</a>
+<br>
 
-</p>
+<div align="center">
 
----
+### 💙 `Code. Learn. Experiment. Repeat.`
 
-<p align="center">
+<sub>Thanks for visiting my profile 🚀</sub>
 
-### ⭐ *"Turning ideas into intelligent systems through Data & AI."*
-
-</p>
+</div>

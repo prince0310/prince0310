@@ -20,7 +20,7 @@
 
 <img align="right" src="./src/gif.gif" width="300" alt="AI Engineer" style="margin-top: 120px;">
 
-<img src="./src/about-points.svg" width="420" alt="About Prince Kumar">
+<img src="./src/about-points.svg" width="400" alt="About Prince Kumar">
 
 
 
